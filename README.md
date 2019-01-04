@@ -1,9 +1,9 @@
-编译说明:
-Windows：将bin目录WinComplieTool.exe放到源码目录后双击即可
+## 编译说明:
+Windows：将WinComplieTool.exe放到源码目录后双击即可  
 Linux：make
 
 Compilation instructions：
-Windows：Put the bin directory WinComplieTool.exe into the source directory and double-click it.
+Windows：Put the WinComplieTool.exe into the source directory and double-click it.  
 Linux：make
 
 Update 2011-09-17 - added -c option to send CRLF
